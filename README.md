@@ -102,10 +102,10 @@ Abre `http://localhost:8501` en el navegador.
 
 | Pregunta | Respuesta del agente |
 |---|---|
-| ¿Cuántos equipos participan en el torneo? | *(completar con la respuesta real del agente)* |
-| ¿Cuál es el formato de eliminación? | *(completar con la respuesta real del agente)* |
-| ¿Qué reglas aplican para las series de playoffs? | *(completar con la respuesta real del agente)* |
-| ¿Quién es Michael Jordan? *(pregunta general de NBA, fuera del documento)* | *(completar con la respuesta real del agente)* |
+| ¿Cuántos equipos participan en el torneo? | En el torneo participan 8 equipos, representados por los 8 jugadores inscritos. Los equipos que participan son: 1) Boston Celtics (Bladimir), 2) Golden State Warriors (Carlos), 3) Los Angeles Lakers (Miguel), 4) Miami Heat (Diego), 5) Denver Nuggets (Andrés), 6) Milwaukee Bucks (Luis), 7) Phoenix Suns (Fernando), 8) Oklahoma City Thunder (Roberto). |
+| ¿Cuál es el formato de eliminación? | Según la información oficial del torneo, el formato de la Fase de Eliminación es el siguiente: 1) Clasificación: avanzan a esta fase los 2 primeros lugares de cada grupo (4 clasificados en total). 2) Semifinales: se enfrentan en cruces directos: 1º del Grupo A vs. 2º del Grupo B, y 1º del Grupo B vs. 2º del Grupo A. 3) Gran Final: los ganadores de ambas semifinales se enfrentan para definir al campeón del torneo. |
+| ¿Qué reglas aplican para las series de playoffs? | Esa información específica no aparece en el reglamento del torneo. El documento únicamente detalla sobre la Fase de Eliminación que los 4 clasificados juegan las Semifinales (1º del Grupo A vs. 2º del Grupo B, y 1º del Grupo B vs. 2º del Grupo A) y posteriormente la Gran Final, pero no especifica las reglas detalladas de las series de playoffs (como al mejor de cuántos partidos se juega, la duración de los cuartos, la dificultad u otra configuración del juego). |
+| ¿Quién es Michael Jordan? *(pregunta general de NBA, fuera del documento)* | Michael Jordan es ampliamente considerado por expertos, analistas y aficionados como el mejor jugador de baloncesto de todos los tiempos (GOAT). Fue una leyenda de la NBA que brilló principalmente con los Chicago Bulls, equipo con el que ganó 6 campeonatos de la NBA (1991, 1992, 1993, 1996, 1997 y 1998), siendo elegido MVP de las Finales en cada uno de ellos. Entre sus logros más destacados: 5 premios MVP de la temporada regular, 14 apariciones en el NBA All-Star Game, 10 títulos de máximo anotador de la NBA, y 2 medallas de oro olímpicas con la selección de Estados Unidos (destacando su participación en el icónico Dream Team de 1992). Además, revolucionó la cultura pop mundial y el marketing deportivo gracias a su marca Air Jordan en alianza con Nike, y fue exaltado al Basketball Hall of Fame. |
 
 ## ☁️ Evidencia del deploy
 
