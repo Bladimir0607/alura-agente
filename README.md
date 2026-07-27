@@ -2,6 +2,11 @@
 
 Agente de inteligencia artificial que responde preguntas en lenguaje natural sobre las reglas, equipos y formato de un torneo NBA2K, construido con LangChain y Gemini.
 
+<p align="center">
+  <img width="300" height="300" alt="badge-rag-agente-ia" src="https://github.com/user-attachments/assets/64b61599-98f0-4239-9c2d-00737822195a" />
+</p>
+
+
 ## 📌 Descripción general
 
 Este proyecto resuelve el problema de tener que leer manualmente un documento extenso (reglas y descripción del torneo) para encontrar una información puntual. El agente permite hacerle preguntas directas ("¿cuántos equipos participan?", "¿cuál es el formato de eliminación?") y recibir la respuesta al instante, basada en el contenido del documento.
@@ -110,6 +115,8 @@ Abre `http://localhost:8501` en el navegador.
 
   <img width="1918" height="1010" alt="deploy" src="https://github.com/user-attachments/assets/06b403e6-9c21-43b1-a2ac-4cabb44ba2cd" />
   <img width="1918" height="1001" alt="deploy 2 " src="https://github.com/user-attachments/assets/e79e88d7-e9f1-4773-bf1f-96a43f4f51f3" />
+  <img width="1905" height="977" alt="image" src="https://github.com/user-attachments/assets/c0a464fb-b570-4f53-84fa-6df8172a0a46" />
+
 
 
 
