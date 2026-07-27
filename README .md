@@ -45,7 +45,7 @@ Este proyecto resuelve el problema de tener que leer manualmente un documento ex
 
 - **Python**
 - **LangChain** — orquestación del agente (carga de documento, splitting, cadena RetrievalQA)
-- **Google Gemini** (`gemini-2.0-flash` + `text-embedding-004`) — modelo de lenguaje y embeddings
+- **Google Gemini** (`gemini-3.6-flash` + `text-embedding-004`) — modelo de lenguaje y embeddings
 - **FAISS** — base de datos vectorial
 - **PyPDF** — lectura del documento PDF
 - **Streamlit** — interfaz web para el deploy
